@@ -76,27 +76,3 @@ class Scraper:
                 self.csvFile.write(value)
                 
 Scraper()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
